@@ -1,0 +1,17 @@
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\BLL(Business Logic Layer).deps.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\BLL(Business Logic Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\BLL(Business Logic Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).csproj.AssemblyReference.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).GeneratedMSBuildEditorConfig.editorconfig
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).AssemblyInfoInputs.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).AssemblyInfo.cs
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).csproj.CoreCompileInputs.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\refint\BLL(Business Logic Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\ref\BLL(Business Logic Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\BOL(Business Object Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\DAL(Data Access Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\BOL(Business Object Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\bin\Debug\net6.0\DAL(Data Access Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\BLL(Business Logic Layer)\obj\Debug\net6.0\BLL(Business Logic Layer).csproj.CopyComplete

@@ -1,0 +1,71 @@
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\BLL(Business Logic Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\BOL(Business Object Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\DAL(Data Access Layer).dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\BLL(Business Logic Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\BOL(Business Object Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\DAL(Data Access Layer).pdb
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\SL SQA\Learning\API-Creation\WebAPI-Ntier\StudentWebAPI\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
